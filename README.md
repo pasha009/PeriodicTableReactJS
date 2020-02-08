@@ -1,2 +1,0 @@
-# PeriodicTableReactJS
-Created with CodeSandbox

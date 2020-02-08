@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.cell {
+  float: left;
+  position: relative;
+  height: 100%;
+  margin: 10px;
+}
+
+.element {
+  width: 100px;
+  border: 3px solid black;
+  padding: 10px;
+  margin: 10px;
+}
+
+.at_num {
+  font-size: 30px;
+}
+
+.symbol {
+  position: relative;
+  top: 50%;
+  font-size: 50px;
+  height: 60px;
+}
+
+.at_details {
+  bottom: 4px;
+}
